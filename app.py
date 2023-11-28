@@ -7,4 +7,5 @@ def print100to1():
         print(i, end = " | ")
 
 print100to1()
+print("chuchik sheli <3")
         
